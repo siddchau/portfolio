@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Sidd</title>
+    <link>https://siddchau.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Sidd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://siddchau.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Know What You Are Thinking</title>
+      <link>https://siddchau.github.io/portfolio/post/project-2/</link>
+      <pubDate>Thu, 24 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/post/project-2/</guid>
+      <description>This is a variant of a popular 19th century game “Twenty Questions”. In the traditional game, one player chooses a subject (object) and other players have to guess the chosen word by asking 20 or less &amp;ldquo;Yes or No&amp;rdquo; questions. Here we present a simulator that plays against the humans. Human will choose a word and the simulator will try to guess it based on the answers given. Internally, the simulator uses Natural Language Processing (NLP) to select the words closer to the chosen category from the large dictionary based on the cosine similarity of word to vectors.</description>
+    </item>
+    
+    <item>
+      <title>Database Generator for Manual Reports</title>
+      <link>https://siddchau.github.io/portfolio/post/project-3/</link>
+      <pubDate>Tue, 08 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/post/project-3/</guid>
+      <description>Today most of the decisions and actions are driven by data and therefore the data collection has become an integral part to organisations ranging from software companies to sports teams. Though few sectors like internet companies are at inherent advantage when it comes to data collection (photo you tagged, video you liked, etc), other sectors like construction were not evolved with that mindset. Lot of data in small scale businesses is still handwritten and unorganized, making it difficult to generate actionable insights.</description>
+    </item>
+    
+    <item>
+      <title>Potential Impact of Work-From-Home on US Elections</title>
+      <link>https://siddchau.github.io/portfolio/post/project-1/</link>
+      <pubDate>Wed, 25 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/post/project-1/</guid>
+      <description>Recent pandemic has led to enforce somewhat frowned upon work-from-home culture. This has given many companies an oppurtunity to evaluate it&amp;rsquo;s long term cost savings. Though on one hand the employers can benefit from not having physical offices, the employees on the other hand can benefit too by relocating to the palces with lower cost of living. And since the home price is the major factor in overall cost of living, this could very well be the start of massive migration from places with higher to lower home prices.</description>
+    </item>
+    
+    <item>
+      <title>Intended Receiver Prediction Before QB&#39;s Throw</title>
+      <link>https://siddchau.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 02 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/post/project-4/</guid>
+      <description>More and more sports teams are trying to exploit the game data to their advantage. The NFL Next Gen Stats track the position and the speed of every player during each play. Any actionable insight from such massive data could provide coaches that extra yard needed to change the result of the game in their favor. Here a model is presented using Deep Learning techniques to predict the intended receiver before the quarterback releases the football.</description>
+    </item>
+    
+    <item>
+      <title>You, Celeb &amp; Picasso with some AI</title>
+      <link>https://siddchau.github.io/portfolio/post/project-5/</link>
+      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/post/project-5/</guid>
+      <description>Interested in knowing your celebrity lookalikes and how today&amp;rsquo;s AI savvy Picasso would have painted you and them? Here an application using deep learning techniques is presented where your multiple lookalikes are searched from the database of 50k celebrities. Then Picasso style portraits are generated of you and your celetrity counterparts. Next a small fun game is played, where you are put to task to find your Picasso portrait among all generated portraits.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://siddchau.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://siddchau.github.io/portfolio/contact/</guid>
+      <description>You can contact me on these platforms
+   Platform URL     Email: siddharth.chauhan@gmail.com   Website: https://siddchau.github.io/portfolio/   LinkedIn: https://www.linkedin.com/in/siddharth-chauhan-b5569b59/    </description>
+    </item>
+    
+  </channel>
+</rss>
